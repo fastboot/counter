@@ -16,8 +16,8 @@ function Counter() {
 
     return (
         <Wrapper>
-            <Text> <img src = {p1} alt = "eye" /> VISITORS </Text>
-            <Hits> {count} </Hits>
+            <Text> <img src = {p1} alt = "eye" />  VISITORS </Text>
+            <Hits> <strong>{count} </strong></Hits>
         </Wrapper>
     );
 }

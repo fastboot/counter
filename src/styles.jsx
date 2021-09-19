@@ -17,6 +17,7 @@ export const Text = styled.div`
     padding: 5px;
     line-height: 21px;
     font: verdana;
+    font-size: 12px;
 `
 
 export const Hits = styled.div`
@@ -28,4 +29,5 @@ export const Hits = styled.div`
     align-items: center;
     background: #7b007e;
     font: verdana;
+    font-size: 12px;
 `
